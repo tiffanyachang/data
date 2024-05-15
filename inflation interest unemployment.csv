@@ -1,4 +1,4 @@
-country,year,"Inflation, consumer prices (annual %)","Inflation, GDP deflator (annual %)",Real interest rate (%),Deposit interest rate (%),Lending interest rate (%),"Unemployment, total (% of total labor force) (national estimate)","Unemployment, total (% of total labor force) (modeled ILO estimate)",iso3c,iso2c,adminregion,incomeLevel
+country,year,"inflation_consumer_prices","inflation_gdp_deflator",real_interest_rate,deposit_interest_rate,lending_interest_rate,"Unemployment, total (% of total labor force) (national estimate)","Unemployment, total (% of total labor force) (modeled ILO estimate)",iso3c,iso2c,adminregion,incomeLevel
 
 United States,1970,5.83825533848253,5.60217016436724,2.18540000839062,,7.91,4.90000009536743,,USA,US,,High income
 United States,1971,4.29276668813045,5.06916748805631,0.62260495720725,,5.72333333333333,5.90000009536743,,USA,US,,High income
